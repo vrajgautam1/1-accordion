@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+*{
+    font-family: 'plus jakarta sans', 'sans-serif';
+}
+
+#accordionExample{
+    margin-top: 150px !important;
+    border: 0 !important;
+}
+
+.display-5{
+    font-size: 40px!important;
+    color: rgb(69, 69, 69);
+}
+
+.node-inline{
+    color:#90CA51;
+}
+
+.lg1{
+    list-style: square !important;
+}
